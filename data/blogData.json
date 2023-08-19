@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Next.js",
+      "content": "Next.js is a powerful React framework...",
+      "date": "2023-08-01"
+    },
+    {
+      "id": 2,
+      "title": "Building a Blog with Next.js",
+      "content": "In this tutorial, we're building a blog website...",
+      "date": "2023-08-05"
+    },
+    {
+      "id": 3,
+      "title": "Styling in Next.js",
+      "content": "Styling components in Next.js can be done using CSS modules...",
+      "date": "2023-08-10"
+    }
+  ]
+  
