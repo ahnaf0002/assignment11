@@ -1,1 +1,1 @@
-I have tried a lot to upload this file to my shared hosting server and I couldn't do it but my project sucessfully from my local host. thanks!!
+I have tried a lot to upload this file to my shared hosting server and I couldn't do it but my project sucessfully running from my local host. thanks!!
